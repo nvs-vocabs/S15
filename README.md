@@ -1,5 +1,5 @@
 # S15 - BODC parameter semantic model biological entity colour terms
-A controlled vocabulary defining the terms that used for colour or optical appearance of a biological entity (component of the what theme)  in the BODC parameter semantic model.
+A controlled vocabulary defining the terms used to define or characterise the colour or optical appearance of a biological entity (component of the what theme)  in the BODC parameter semantic model.
 
 Terms and mappings available from: http://vocab.nerc.ac.uk/collection/S15/current/
 
